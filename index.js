@@ -1,3 +1,5 @@
+var marked = require('marked');
+
 module.exports = {
     // Extend templating blocks
     blocks: {
@@ -5,7 +7,7 @@ module.exports = {
         section: {
             process: function(blk) {
                 return '<section>'
-                + blk.body
+                + marked(blk.body)
                 + '</section>';
             }
         }
