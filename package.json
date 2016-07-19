@@ -1,8 +1,8 @@
 {
-    "name": "gitbook-plugin",
-    "description": "Sample plugin for GitBook",
+    "name": "gitbook-plugin-section-tag",
+    "description": "Plugin for GitBook which adds section blocks around content",
     "main": "index.js",
-    "version": "0.0.2",
+    "version": "0.0.1",
     "engines": {
         "gitbook": "*"
     },
