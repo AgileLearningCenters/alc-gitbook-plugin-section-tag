@@ -5,7 +5,7 @@ module.exports = {
         section: {
             process: function(blk) {
                 return '<section>'
-                + block.body
+                + blk.body
                 + '</section>';
             }
         }
