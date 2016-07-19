@@ -1,0 +1,16 @@
+.callout {
+    padding: 1em;
+}
+
+.callout-default { background: #f2f2f2; }
+.callout-tip { background:#5AB25A; }
+.callout-warning { background:#ED7634; }
+.callout-option { background:#4AAFDC; }
+
+.callout h1:first-child, .callout h2:first-child, .callout h3:first-child, .callout h4:first-child, .callout h5:first-child, .callout h6:first-child {
+  margin-top: 0;
+}
+
+.story {
+  font-family: Georgia, serif;
+}
