@@ -2,9 +2,9 @@ var marked = require('marked');
 
 module.exports = {
     website: {
-        assets: "./book",
+        assets: "./assets",
         css: [
-        "test.css"
+        "default-style.css"
         ]
     },
     // Extend templating blocks

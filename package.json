@@ -1,19 +1,19 @@
 {
-  "name": "gitbook-plugin-section-tag",
-  "description": "Plugin for GitBook which adds section blocks around content",
+  "name": "gitbook-plugin-theme-alc",
+  "description": "Theme for Agile Learning Center's Gitbooks",
   "main": "index.js",
   "version": "0.0.1",
   "engines": {
     "gitbook": "*"
   },
-  "homepage": "https://github.com/AgileLearningCenters/alc-gitbook-plugin-section-tag",
+  "homepage": "https://github.com/AgileLearningCenters/alc-gitbook-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AgileLearningCenters/alc-gitbook-plugin-section-tag.git"
+    "url": "https://github.com/AgileLearningCenters/alc-gitbook-theme.git"
   },
   "license": "Apache 2",
   "bugs": {
-    "url": "https://github.com/AgileLearningCenters/alc-gitbook-plugin-section-tag/issues"
+    "url": "https://github.com/AgileLearningCenters/alc-gitbook-theme/issues"
   },
   "dependencies": {
     "marked": "^0.3.5"
