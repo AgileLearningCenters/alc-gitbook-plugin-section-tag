@@ -4,6 +4,7 @@ module.exports = {
     website: {
         assets: "./assets",
         css: [
+        "fonts/font.css",
         "default-style.css"
         ]
     },

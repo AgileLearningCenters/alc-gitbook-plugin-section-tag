@@ -1,3 +1,7 @@
+body .book.font-family-1 {
+  font-family: 'bk samuelsno5', Helvetica, sans-serif;
+}
+
 .callout {
     padding: 1em;
 }
