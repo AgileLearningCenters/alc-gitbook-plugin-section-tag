@@ -15,6 +15,16 @@ body .book.font-family-1 {
   margin-top: 0;
 }
 
+.cta {
+    padding: 1em;
+}
+
+.cta-default { background: #f2f2f2; }
+
+.cta h1:first-child, .cta h2:first-child, .cta h3:first-child, .cta h4:first-child, .cta h5:first-child, .cta h6:first-child {
+  margin-top: 0;
+}
+
 .story,
 .markdown-section .story {
   font-family: 'Patrick Hand', serif;
