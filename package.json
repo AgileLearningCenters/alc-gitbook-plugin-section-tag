@@ -15,7 +15,11 @@
   "bugs": {
     "url": "https://github.com/AgileLearningCenters/alc-gitbook-theme/issues"
   },
-  "dependencies": {
-    "marked": "^0.3.5"
+  "devDependencies": {
+    "marked": "^0.3.5",
+    "node-sass": "^3.8.0"
+  },
+  "scripts": {
+    "prepublish": "./src/build.sh"
   }
 }

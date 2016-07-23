@@ -1,0 +1,34 @@
+@import 'base/color-definitions';
+
+body .book.font-family-1 {
+  font-family: 'bk samuelsno5', Helvetica, sans-serif;
+}
+
+.callout {
+    padding: 1em;
+}
+
+.callout-default { background: $palette-gray-500; }
+.callout-tip { background:$palette-green-500; }
+.callout-warning { background:$palette-orange-500; }
+.callout-option { background:$palette-blue-500; }
+
+.callout h1:first-child, .callout h2:first-child, .callout h3:first-child, .callout h4:first-child, .callout h5:first-child, .callout h6:first-child {
+  margin-top: 0;
+}
+
+.cta {
+    padding: 1em;
+}
+
+.cta-default { background: $palette-gray-500; }
+
+.cta h1:first-child, .cta h2:first-child, .cta h3:first-child, .cta h4:first-child, .cta h5:first-child, .cta h6:first-child {
+  margin-top: 0;
+}
+
+.story,
+.markdown-section .story {
+  font-family: 'Patrick Hand', serif;
+  font-size: 1.25em;
+}

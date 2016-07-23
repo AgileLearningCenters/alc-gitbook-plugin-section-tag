@@ -2,7 +2,7 @@ var marked = require('marked');
 
 module.exports = {
     website: {
-        assets: "./assets",
+        assets: "./_assets",
         css: [
         "fonts/font.css",
         "default-style.css"
