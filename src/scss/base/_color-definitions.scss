@@ -17,6 +17,8 @@ rgb(216, 82, 89)
 rgb(168, 38, 45)
 ;
 
+@include create-color-classes($palette-red,"red");
+
 $palette-red-50: nth($palette-red, 1);
 $palette-red-100: nth($palette-red, 2);
 $palette-red-200: nth($palette-red, 3);

@@ -42,3 +42,38 @@
     src: $src;
   }
 }
+
+
+
+// =============================================================================
+// color classes
+// =============================================================================
+
+@mixin create-color-classes($palette, $basename) {
+  $palette-suffix:
+  "50"
+  "100"
+  "200"
+  "300"
+  "400"
+  "500"
+  "600"
+  "700"
+  "800"
+  "900"
+  "A100"
+  "A200"
+  "A400"
+  "A700"
+  ;
+
+  @each $color in $palette {
+    $i: index($palette, $color);
+    $suffix: nth($palette-suffix, $i);
+    $name: #{$basename}-#{$suffix};
+
+    .#{$name} {
+      color: $color;
+    }
+  }
+}
