@@ -9,4 +9,4 @@ mkdir -p _assets/ebook/
 
 # Compile SASS
 
-#sass --output-style compressed -o src/website.scss _assets/website.css
+node-sass --output-style compressed -o _assets/website.css src/website.scss
