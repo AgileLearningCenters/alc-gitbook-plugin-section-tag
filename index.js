@@ -4,8 +4,7 @@ module.exports = {
     website: {
         assets: "./_assets",
         css: [
-        "fonts/font.css",
-        "default-style.css"
+        "website/alc-style.css"
         ]
     },
     // Extend templating blocks
