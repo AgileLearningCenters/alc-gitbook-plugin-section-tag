@@ -50,30 +50,20 @@
 // =============================================================================
 
 @mixin create-color-classes($palette, $basename) {
-  $palette-suffix:
-  "50"
-  "100"
-  "200"
-  "300"
-  "400"
-  "500"
-  "600"
-  "700"
-  "800"
-  "900"
-  "A100"
-  "A200"
-  "A400"
-  "A700"
-  ;
-
-  @each $color in $palette {
-    $i: index($palette, $color);
-    $suffix: nth($palette-suffix, $i);
+  
+  @each $item in $palette {
+    $color: nth($item, 1);
+    $contrast: nth($item, 2);
+    $suffix: nth($item, 3);
+    /* #{$basename $suffix $color} */
+  }
+  
+  @each $item in $palette {
+    $color: nth($item, 1);
+    $contrast: nth($item, 2);
+    $suffix: nth($item, 3);
     $name: #{$basename}-#{$suffix};
-
-    .#{$name} {
-      color: $color;
-    }
+    .#{$name} { color: $color; }
+    .#{$name}-bkg { background-color: $color; color: $contrast; }
   }
 }
