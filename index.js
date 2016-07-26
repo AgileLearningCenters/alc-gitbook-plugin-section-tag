@@ -1,7 +1,14 @@
 var marked = require('marked');
+var colors = require('./src/alc-colors.json');
 
 module.exports = {
-    website: {
+    hooks: {
+        config: function(config) {
+            config.variables.colors = colors;
+            return config;
+        }
+    },
+    webbite: {
         assets: "./_assets",
         css: [
         "website/alc-style.css"
