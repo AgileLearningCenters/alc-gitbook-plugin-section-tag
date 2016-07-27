@@ -4,11 +4,11 @@ var colors = require('./src/alc-colors.json');
 module.exports = {
     hooks: {
         config: function(config) {
-            config.variables.colors = colors;
+            config.colors = colors;
             return config;
         }
     },
-    webbite: {
+    website: {
         assets: "./_assets",
         css: [
         "website/alc-style.css"

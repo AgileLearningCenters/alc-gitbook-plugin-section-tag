@@ -1,407 +1,407 @@
 {
   "red" : {
     "50" : {
-      "color" : "rgb(255, 255, 255)",
+      "hex" : "#FFFFFF",
       "contrast" : "dark"
     },
     "100" : {
-      "color" : "rgb(245, 211, 213)",
+      "hex" : "#F5D3D5",
       "contrast" : "dark"
     },
     "200" : {
-      "color" : "rgb(235, 165, 169)",
+      "hex" : "#EBA5A9",
       "contrast" : "dark"
     },
     "300" : {
-      "color" : "rgb(221, 107, 113)",
+      "hex" : "#DD6B71",
       "contrast" : "dark"
     },
     "400" : {
-      "color" : "rgb(216, 82, 89)",
+      "hex" : "#D85259",
       "contrast" : "light"
     },
     "500" : {
-      "color" : "rgb(210, 57, 65)",
+      "hex" : "#D23941",
       "contrast" : "light"
     },
     "600" : {
-      "color" : "rgb(193, 44, 52)",
+      "hex" : "#C12C34",
       "contrast" : "light"
     },
     "700" : {
-      "color" : "rgb(168, 38, 45)",
+      "hex" : "#A8262D",
       "contrast" : "light"
     },
     "800" : {
-      "color" : "rgb(143, 32, 38)",
+      "hex" : "#8F2026",
       "contrast" : "light"
     },
     "900" : {
-      "color" : "rgb(118, 27, 32)",
+      "hex" : "#761B20",
       "contrast" : "light"
     },
     "A100" : {
-      "color" : "rgb(255, 255, 255)",
+      "hex" : "#FFFFFF",
       "contrast" : "dark"
     },
     "A200" : {
-      "color" : "rgb(245, 211, 213)",
+      "hex" : "#F5D3D5",
       "contrast" : "dark"
     },
     "A400" : {
-      "color" : "rgb(216, 82, 89)",
+      "hex" : "#D85259",
       "contrast" : "light"
     },
     "A700" : {
-      "color" : "rgb(168, 38, 45)",
+      "hex" : "#A8262D",
       "contrast" : "light"
     }
   },
   "yellow" : {
     "50" : {
-      "color" : "rgb(255, 255, 255)",
+      "hex" : "#FFFFFF",
       "contrast" : "dark"
     },
     "100" : {
-      "color" : "rgb(254, 249, 233)",
+      "hex" : "#FEF9E9",
       "contrast" : "dark"
     },
     "200" : {
-      "color" : "rgb(252, 233, 179)",
+      "hex" : "#FCE9B3",
       "contrast" : "dark"
     },
     "300" : {
-      "color" : "rgb(250, 213, 110)",
+      "hex" : "#FAD56E",
       "contrast" : "dark"
     },
     "400" : {
-      "color" : "rgb(249, 205, 81)",
+      "hex" : "#F9CD51",
       "contrast" : "dark"
     },
     "500" : {
-      "color" : "rgb(248, 196, 51)",
+      "hex" : "#F8C433",
       "contrast" : "dark"
     },
     "600" : {
-      "color" : "rgb(247, 187, 21)",
+      "hex" : "#F7BB15",
       "contrast" : "dark"
     },
     "700" : {
-      "color" : "rgb(230, 171, 8)",
+      "hex" : "#E6AB08",
       "contrast" : "dark"
     },
     "800" : {
-      "color" : "rgb(200, 149, 7)",
+      "hex" : "#C89507",
       "contrast" : "dark"
     },
     "900" : {
-      "color" : "rgb(171, 127, 6)",
+      "hex" : "#AB7F06",
       "contrast" : "light"
     },
     "A100" : {
-      "color" : "rgb(255, 255, 255)",
+      "hex" : "#FFFFFF",
       "contrast" : "dark"
     },
     "A200" : {
-      "color" : "rgb(254, 249, 233)",
+      "hex" : "#FEF9E9",
       "contrast" : "dark"
     },
     "A400" : {
-      "color" : "rgb(249, 205, 81)",
+      "hex" : "#F9CD51",
       "contrast" : "dark"
     },
     "A700" : {
-      "color" : "rgb(230, 171, 8)",
+      "hex" : "#E6AB08",
       "contrast" : "dark"
     }
   },
   "green" : {
     "50" : {
-      "color" : "rgb(255, 255, 255)",
+      "hex" : "#FFFFFF",
       "contrast" : "dark"
     },
     "100" : {
-      "color" : "rgb(219, 238, 219)",
+      "hex" : "#DBEEDB",
       "contrast" : "dark"
     },
     "200" : {
-      "color" : "rgb(180, 220, 180)",
+      "hex" : "#B4DCB4",
       "contrast" : "dark"
     },
     "300" : {
-      "color" : "rgb(132, 197, 132)",
+      "hex" : "#84C584",
       "contrast" : "dark"
     },
     "400" : {
-      "color" : "rgb(111, 188, 111)",
+      "hex" : "#6FBC6F",
       "contrast" : "dark"
     },
     "500" : {
-      "color" : "rgb(90, 178, 90)",
+      "hex" : "#5AB25A",
       "contrast" : "dark"
     },
     "600" : {
-      "color" : "rgb(76, 162, 76)",
+      "hex" : "#4CA24C",
       "contrast" : "light"
     },
     "700" : {
-      "color" : "rgb(66, 141, 66)",
+      "hex" : "#428D42",
       "contrast" : "light"
     },
     "800" : {
-      "color" : "rgb(56, 120, 56)",
+      "hex" : "#387838",
       "contrast" : "light"
     },
     "900" : {
-      "color" : "rgb(46, 99, 46)",
+      "hex" : "#2E632E",
       "contrast" : "light"
     },
     "A100" : {
-      "color" : "rgb(255, 255, 255)",
+      "hex" : "#FFFFFF",
       "contrast" : "dark"
     },
     "A200" : {
-      "color" : "rgb(219, 238, 219)",
+      "hex" : "#DBEEDB",
       "contrast" : "dark"
     },
     "A400" : {
-      "color" : "rgb(111, 188, 111)",
+      "hex" : "#6FBC6F",
       "contrast" : "dark"
     },
     "A700" : {
-      "color" : "rgb(66, 141, 66)",
+      "hex" : "#428D42",
       "contrast" : "light"
     }
   },
   "blue" : {
     "50" : {
-      "color" : "rgb(255, 255, 255)",
+      "hex" : "#FFFFFF",
       "contrast" : "dark"
     },
     "100" : {
-      "color" : "rgb(232, 245, 251)",
+      "hex" : "#E8F5FB",
       "contrast" : "dark"
     },
     "200" : {
-      "color" : "rgb(185, 224, 241)",
+      "hex" : "#B9E0F1",
       "contrast" : "dark"
     },
     "300" : {
-      "color" : "rgb(125, 198, 230)",
+      "hex" : "#7DC6E6",
       "contrast" : "dark"
     },
     "400" : {
-      "color" : "rgb(100, 186, 225)",
+      "hex" : "#64BAE1",
       "contrast" : "dark"
     },
     "500" : {
-      "color" : "rgb(74, 175, 220)",
+      "hex" : "#4AAFDC",
       "contrast" : "dark"
     },
     "600" : {
-      "color" : "rgb(48, 164, 215)",
+      "hex" : "#30A4D7",
       "contrast" : "dark"
     },
     "700" : {
-      "color" : "rgb(38, 147, 195)",
+      "hex" : "#2693C3",
       "contrast" : "light"
     },
     "800" : {
-      "color" : "rgb(33, 127, 169)",
+      "hex" : "#217FA9",
       "contrast" : "light"
     },
     "900" : {
-      "color" : "rgb(28, 108, 144)",
+      "hex" : "#1C6C90",
       "contrast" : "light"
     },
     "A100" : {
-      "color" : "rgb(255, 255, 255)",
+      "hex" : "#FFFFFF",
       "contrast" : "dark"
     },
     "A200" : {
-      "color" : "rgb(232, 245, 251)",
+      "hex" : "#E8F5FB",
       "contrast" : "dark"
     },
     "A400" : {
-      "color" : "rgb(100, 186, 225)",
+      "hex" : "#64BAE1",
       "contrast" : "dark"
     },
     "A700" : {
-      "color" : "rgb(38, 147, 195)",
+      "hex" : "#2693C3",
       "contrast" : "light"
     }
   },
   "orange" : {
     "50" : {
-      "color" : "rgb(255, 255, 255)",
+      "hex" : "#FFFFFF",
       "contrast" : "dark"
     },
     "100" : {
-      "color" : "rgb(252, 235, 225)",
+      "hex" : "#FCEBE1",
       "contrast" : "dark"
     },
     "200" : {
-      "color" : "rgb(248, 200, 174)",
+      "hex" : "#F8C8AE",
       "contrast" : "dark"
     },
     "300" : {
-      "color" : "rgb(242, 156, 108)",
+      "hex" : "#F29C6C",
       "contrast" : "dark"
     },
     "400" : {
-      "color" : "rgb(239, 137, 80)",
+      "hex" : "#EF8950",
       "contrast" : "dark"
     },
     "500" : {
-      "color" : "rgb(237, 118, 52)",
+      "hex" : "#ED7634",
       "contrast" : "dark"
     },
     "600" : {
-      "color" : "rgb(235, 99, 24)",
+      "hex" : "#EB6318",
       "contrast" : "dark"
     },
     "700" : {
-      "color" : "rgb(209, 87, 19)",
+      "hex" : "#D15713",
       "contrast" : "light"
     },
     "800" : {
-      "color" : "rgb(181, 75, 16)",
+      "hex" : "#B54B10",
       "contrast" : "light"
     },
     "900" : {
-      "color" : "rgb(153, 63, 14)",
+      "hex" : "#993F0E",
       "contrast" : "light"
     },
     "A100" : {
-      "color" : "rgb(255, 255, 255)",
+      "hex" : "#FFFFFF",
       "contrast" : "dark"
     },
     "A200" : {
-      "color" : "rgb(252, 235, 225)",
+      "hex" : "#FCEBE1",
       "contrast" : "dark"
     },
     "A400" : {
-      "color" : "rgb(239, 137, 80)",
+      "hex" : "#EF8950",
       "contrast" : "dark"
     },
     "A700" : {
-      "color" : "rgb(209, 87, 19)",
+      "hex" : "#D15713",
       "contrast" : "light"
     }
   },
   "purple" : {
     "50" : {
-      "color" : "rgb(199, 142, 171)",
+      "hex" : "#C78EAB",
       "contrast" : "dark"
     },
     "100" : {
-      "color" : "rgb(174, 90, 132)",
+      "hex" : "#AE5A84",
       "contrast" : "light"
     },
     "200" : {
-      "color" : "rgb(140, 69, 104)",
+      "hex" : "#8C4568",
       "contrast" : "light"
     },
     "300" : {
-      "color" : "rgb(92, 45, 69)",
+      "hex" : "#5C2D45",
       "contrast" : "light"
     },
     "400" : {
-      "color" : "rgb(72, 35, 53)",
+      "hex" : "#482335",
       "contrast" : "light"
     },
     "500" : {
-      "color" : "rgb(51, 25, 38)",
+      "hex" : "#331926",
       "contrast" : "light"
     },
     "600" : {
-      "color" : "rgb(30, 15, 23)",
+      "hex" : "#1E0F17",
       "contrast" : "light"
     },
     "700" : {
-      "color" : "rgb(10, 5, 7)",
+      "hex" : "#0A0507",
       "contrast" : "light"
     },
     "800" : {
-      "color" : "rgb(0, 0, 0)",
+      "hex" : "#000000",
       "contrast" : "light"
     },
     "900" : {
-      "color" : "rgb(0, 0, 0)",
+      "hex" : "#000000",
       "contrast" : "light"
     },
     "A100" : {
-      "color" : "rgb(199, 142, 171)",
+      "hex" : "#C78EAB",
       "contrast" : "dark"
     },
     "A200" : {
-      "color" : "rgb(174, 90, 132)",
+      "hex" : "#AE5A84",
       "contrast" : "light"
     },
     "A400" : {
-      "color" : "rgb(72, 35, 53)",
+      "hex" : "#482335",
       "contrast" : "light"
     },
     "A700" : {
-      "color" : "rgb(10, 5, 7)",
+      "hex" : "#0A0507",
       "contrast" : "light"
     }
   },
   "gray" : {
     "50" : {
-      "color" : "rgb(229, 229, 229)",
+      "hex" : "#E5E5E5",
       "contrast" : "dark"
     },
     "100" : {
-      "color" : "rgb(190, 190, 190)",
+      "hex" : "#BEBEBE",
       "contrast" : "dark"
     },
     "200" : {
-      "color" : "rgb(162, 162, 162)",
+      "hex" : "#A2A2A2",
       "contrast" : "dark"
     },
     "300" : {
-      "color" : "rgb(127, 127, 127)",
+      "hex" : "#7F7F7F",
       "contrast" : "light"
     },
     "400" : {
-      "color" : "rgb(111, 111, 111)",
+      "hex" : "#6F6F6F",
       "contrast" : "light"
     },
     "500" : {
-      "color" : "rgb(96, 96, 96)",
+      "hex" : "#606060",
       "contrast" : "light"
     },
     "600" : {
-      "color" : "rgb(81, 81, 81)",
+      "hex" : "#515151",
       "contrast" : "light"
     },
     "700" : {
-      "color" : "rgb(65, 65, 65)",
+      "hex" : "#414141",
       "contrast" : "light"
     },
     "800" : {
-      "color" : "rgb(50, 50, 50)",
+      "hex" : "#323232",
       "contrast" : "light"
     },
     "900" : {
-      "color" : "rgb(35, 35, 35)",
+      "hex" : "#232323",
       "contrast" : "light"
     },
     "A100" : {
-      "color" : "rgb(229, 229, 229)",
+      "hex" : "#E5E5E5",
       "contrast" : "dark"
     },
     "A200" : {
-      "color" : "rgb(190, 190, 190)",
+      "hex" : "#BEBEBE",
       "contrast" : "dark"
     },
     "A400" : {
-      "color" : "rgb(111, 111, 111)",
+      "hex" : "#6F6F6F",
       "contrast" : "light"
     },
     "A700" : {
-      "color" : "rgb(65, 65, 65)",
+      "hex" : "#414141",
       "contrast" : "light"
     }
   }
