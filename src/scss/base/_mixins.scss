@@ -55,15 +55,8 @@
     $color: nth($item, 1);
     $contrast: nth($item, 2);
     $suffix: nth($item, 3);
-    /* #{$basename $suffix $color} */
-  }
-  
-  @each $item in $palette {
-    $color: nth($item, 1);
-    $contrast: nth($item, 2);
-    $suffix: nth($item, 3);
     $name: #{$basename}-#{$suffix};
-    .#{$name} { color: $color; }
     .#{$name}-bkg { background-color: $color; color: $contrast; }
+    .#{$name} { color: $color; }
   }
 }
