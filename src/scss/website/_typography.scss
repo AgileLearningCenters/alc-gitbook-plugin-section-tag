@@ -1,0 +1,187 @@
+/* ================================= 
+    Typography
+   ================================= */
+
+$font-weight-thin: 100;
+$font-weight-light: 200;
+$font-weight-medium: 400;
+$font-weight-bold: 700;
+$font-weight-fat: 900;
+
+$font-family-sans: 'bk samuelsno5', Helvetica, sans-serif;
+$font-familty-serif: 'Lora', serif;
+
+body {
+  font-family: $font-family-sans;
+  font-size: 16px;
+  font-weight: $font-weight-light;
+  line-height: 1.5;
+  letter-spacing: 0;
+}
+
+h2 { color: $palette-gray-700; }
+
+@mixin typography {
+
+  blockquote,
+  dl,
+  ol,
+  p,
+  table,
+  ul {
+    font-size: 1.15em;
+  }
+
+  h1.superheader {
+    font-family: $font-family-sans;
+    font-size: 4em;
+    font-weight: $font-weight-thin;
+    line-height: 1.5;
+
+    padding: 25px 50px;
+    margin: 0 -50px .85em;
+
+    strong {
+      font-weight: $font-weight-bold;
+    }
+  }
+
+  h1:not(.superheader) {
+    font-family: $font-family-sans;
+    font-size: 4em;
+    font-weight: $font-weight-thin;
+    line-height: 1.5;
+
+    margin-top: 1.275em;
+    margin-bottom: .85em;
+
+    border-bottom: 1px solid;
+
+    strong {
+      font-weight: $font-weight-bold;
+    }
+  }
+
+  h2 {
+    font-family: $font-family-sans;
+    font-size: 2em;
+    font-weight: $font-weight-medium;
+    line-height: 1.5;
+
+    strong {
+      font-weight: $font-weight-fat;
+    }
+  }
+
+  h3 {
+    font-family: $font-family-sans;
+    font-size: 1.5em;
+    font-weight: $font-weight-light;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
+    strong {
+      font-weight: $font-weight-bold;
+    }
+  }
+
+  h4,
+  h5,
+  h6 {
+    font-family: $font-family-sans;
+    font-size: 1.15em;
+    font-weight: $font-weight-medium;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
+    strong {
+      font-weight: $font-weight-fat;
+    }
+  }
+
+  blockquote {
+    color: $palette-gray-700;
+    border-left-color: inherit;
+  }
+
+  blockquote p {
+    font-size: 1.25em;
+    font-weight: $font-weight-thin;
+    strong {
+      font-weight: $font-weight-light;
+    }
+  }
+
+  // Call out
+
+  .callout h1 {
+    font-family: $font-family-sans;
+    font-size: 1.5em;
+    font-weight: $font-weight-fat;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    margin-bottom: .85em;
+    border-bottom: none; 
+  }
+
+  .callout h2 {
+    color: inherit;
+    font-family: $font-family-sans;
+    font-size: 1.5em;
+    font-weight: $font-weight-medium;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+  .callout h3 {
+    font-family: $font-family-sans;
+    font-size: 1.15em;
+    font-weight: $font-weight-bold;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+  .callout h4,
+  .callout h5,
+  .callout h6 {
+    font-family: $font-family-sans;
+    font-size: 1em;
+    font-weight: $font-weight-medium;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+  .callout blockquote {
+    color:inherit;
+  }
+
+  .callout blockquote p {
+    font-size: 1.25em;
+    font-weight: $font-weight-thin;
+  }
+
+  .story {
+    font-family: $font-familty-serif;
+    font-size: 1.15em;
+    font-style: italic;
+    font-weight: 400;
+    em {
+      font-style: normal;
+    }
+  }
+
+  @content;
+}
+
+.weight-100 { font-weight: $font-weight-thin !important; }
+.weight-200 { font-weight: $font-weight-light !important; }
+.weight-400 { font-weight: $font-weight-medium !important; }
+.weight-700 { font-weight: $font-weight-bold !important; }
+.weight-900 { font-weight: $font-weight-fat !important; }

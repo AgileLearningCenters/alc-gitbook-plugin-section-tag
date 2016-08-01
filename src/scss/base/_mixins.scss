@@ -57,6 +57,6 @@
     $suffix: nth($item, 3);
     $name: #{$basename}-#{$suffix};
     .#{$name}-bkg { background-color: $color; color: $contrast; }
-    .#{$name} { color: $color; }
+    html .#{$name} { color: $color; }
   }
 }

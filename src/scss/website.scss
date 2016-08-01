@@ -2,10 +2,34 @@
 @import 'base/color-definitions';
 
 @import 'website/fonts';
+@import 'website/typography';
+
+// R E S E T : D E F A U L T  T H E M E
+
+// B A S E  T H E M E
+
+a {
+  color: $palette-blue-A700;
+  &:hover {
+    color: $palette-red-A700;
+  }
+}
+
+// T Y P E
+
+body .book.font-family-0 {
+  // serif
+}
 
 body .book.font-family-1 {
-  font-family: 'bk samuelsno5', Helvetica, sans-serif;
+  font-family: $font-family-sans;
 }
+
+.markdown-section {
+  @include typography;
+}
+
+// A T O M S
 
 .callout {
     padding: 1em;
@@ -28,10 +52,4 @@ body .book.font-family-1 {
 
 .cta h1:first-child, .cta h2:first-child, .cta h3:first-child, .cta h4:first-child, .cta h5:first-child, .cta h6:first-child {
   margin-top: 0;
-}
-
-.story,
-.markdown-section .story {
-  font-family: 'Patrick Hand', serif;
-  font-size: 1.25em;
 }
