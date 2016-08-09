@@ -2,407 +2,505 @@
   "red" : {
     "50" : {
       "hex" : "#FFFFFF",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "100" : {
       "hex" : "#F5D3D5",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "200" : {
       "hex" : "#EBA5A9",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "600"
     },
     "300" : {
       "hex" : "#DD6B71",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "700"
     },
     "400" : {
       "hex" : "#D85259",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "800"
     },
     "500" : {
       "hex" : "#D23941",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "900"
     },
     "600" : {
       "hex" : "#C12C34",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "700" : {
       "hex" : "#A8262D",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "800" : {
       "hex" : "#8F2026",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "900" : {
       "hex" : "#761B20",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "A100" : {
       "hex" : "#FFFFFF",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "A200" : {
       "hex" : "#F5D3D5",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "700"
     },
     "A400" : {
       "hex" : "#D85259",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "900"
     },
     "A700" : {
       "hex" : "#A8262D",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "100"
     }
   },
   "yellow" : {
     "50" : {
       "hex" : "#FFFFFF",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "100" : {
       "hex" : "#FEF9E9",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "200" : {
       "hex" : "#FCE9B3",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "600"
     },
     "300" : {
       "hex" : "#FAD56E",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "700"
     },
     "400" : {
       "hex" : "#F9CD51",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "800"
     },
     "500" : {
       "hex" : "#F8C433",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "900"
     },
     "600" : {
       "hex" : "#F7BB15",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "200"
     },
     "700" : {
       "hex" : "#E6AB08",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "200"
     },
     "800" : {
       "hex" : "#C89507",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "200"
     },
     "900" : {
       "hex" : "#AB7F06",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "A100" : {
       "hex" : "#FFFFFF",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "A200" : {
       "hex" : "#FEF9E9",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "700"
     },
     "A400" : {
       "hex" : "#F9CD51",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "900"
     },
     "A700" : {
       "hex" : "#E6AB08",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "100"
     }
   },
   "green" : {
     "50" : {
       "hex" : "#FFFFFF",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "100" : {
       "hex" : "#DBEEDB",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "200" : {
       "hex" : "#B4DCB4",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "600"
     },
     "300" : {
       "hex" : "#84C584",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "700"
     },
     "400" : {
       "hex" : "#6FBC6F",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "800"
     },
     "500" : {
       "hex" : "#5AB25A",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "900"
     },
     "600" : {
       "hex" : "#4CA24C",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "700" : {
       "hex" : "#428D42",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "800" : {
       "hex" : "#387838",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "900" : {
       "hex" : "#2E632E",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "A100" : {
       "hex" : "#FFFFFF",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "A200" : {
       "hex" : "#DBEEDB",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "700"
     },
     "A400" : {
       "hex" : "#6FBC6F",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "900"
     },
     "A700" : {
       "hex" : "#428D42",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "100"
     }
   },
   "blue" : {
     "50" : {
       "hex" : "#FFFFFF",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "100" : {
       "hex" : "#E8F5FB",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "200" : {
       "hex" : "#B9E0F1",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "600"
     },
     "300" : {
       "hex" : "#7DC6E6",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "700"
     },
     "400" : {
       "hex" : "#64BAE1",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "800"
     },
     "500" : {
       "hex" : "#4AAFDC",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "900"
     },
     "600" : {
       "hex" : "#30A4D7",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "200"
     },
     "700" : {
       "hex" : "#2693C3",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "800" : {
       "hex" : "#217FA9",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "900" : {
       "hex" : "#1C6C90",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "A100" : {
       "hex" : "#FFFFFF",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "A200" : {
       "hex" : "#E8F5FB",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "700"
     },
     "A400" : {
       "hex" : "#64BAE1",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "900"
     },
     "A700" : {
       "hex" : "#2693C3",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "100"
     }
   },
   "orange" : {
     "50" : {
       "hex" : "#FFFFFF",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "100" : {
       "hex" : "#FCEBE1",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "200" : {
       "hex" : "#F8C8AE",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "600"
     },
     "300" : {
       "hex" : "#F29C6C",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "700"
     },
     "400" : {
       "hex" : "#EF8950",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "800"
     },
     "500" : {
       "hex" : "#ED7634",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "900"
     },
     "600" : {
       "hex" : "#EB6318",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "200"
     },
     "700" : {
       "hex" : "#D15713",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "800" : {
       "hex" : "#B54B10",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "900" : {
       "hex" : "#993F0E",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "A100" : {
       "hex" : "#FFFFFF",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "A200" : {
       "hex" : "#FCEBE1",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "700"
     },
     "A400" : {
       "hex" : "#EF8950",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "900"
     },
     "A700" : {
       "hex" : "#D15713",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "100"
     }
   },
   "purple" : {
     "50" : {
       "hex" : "#C78EAB",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "100" : {
       "hex" : "#AE5A84",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "500"
     },
     "200" : {
       "hex" : "#8C4568",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "600"
     },
     "300" : {
       "hex" : "#5C2D45",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "700"
     },
     "400" : {
       "hex" : "#482335",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "800"
     },
     "500" : {
       "hex" : "#331926",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "900"
     },
     "600" : {
       "hex" : "#1E0F17",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "700" : {
       "hex" : "#0A0507",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "800" : {
       "hex" : "#000000",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "900" : {
       "hex" : "#000000",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "A100" : {
       "hex" : "#C78EAB",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "A200" : {
       "hex" : "#AE5A84",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "700"
     },
     "A400" : {
       "hex" : "#482335",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "900"
     },
     "A700" : {
       "hex" : "#0A0507",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "100"
     }
   },
   "gray" : {
     "50" : {
       "hex" : "#E5E5E5",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "100" : {
       "hex" : "#BEBEBE",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "200" : {
       "hex" : "#A2A2A2",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "600"
     },
     "300" : {
       "hex" : "#7F7F7F",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "700"
     },
     "400" : {
       "hex" : "#6F6F6F",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "800"
     },
     "500" : {
       "hex" : "#606060",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "900"
     },
     "600" : {
       "hex" : "#515151",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "700" : {
       "hex" : "#414141",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "800" : {
       "hex" : "#323232",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "900" : {
       "hex" : "#232323",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "200"
     },
     "A100" : {
       "hex" : "#E5E5E5",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "500"
     },
     "A200" : {
       "hex" : "#BEBEBE",
-      "contrast" : "dark"
+      "contrast" : "0",
+			"complement" : "700"
     },
     "A400" : {
       "hex" : "#6F6F6F",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "900"
     },
     "A700" : {
       "hex" : "#414141",
-      "contrast" : "light"
+      "contrast" : "1",
+			"complement" : "100"
     }
   }
 }
