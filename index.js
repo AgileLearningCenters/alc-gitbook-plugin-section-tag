@@ -27,6 +27,11 @@ module.exports = {
                 + marked(blk.body)
                 + '</aside>';
             }
+        },
+        markdownless: {
+            process: function(blk) {
+                return blk.body;
+            }
         }
     }
 };
