@@ -388,12 +388,12 @@
     "500" : {
       "hex" : "#331926",
       "contrast" : "1",
-			"complement" : "900"
+			"complement" : "50"
     },
     "600" : {
       "hex" : "#1E0F17",
       "contrast" : "1",
-			"complement" : "200"
+			"complement" : "100"
     },
     "700" : {
       "hex" : "#0A0507",
@@ -403,12 +403,12 @@
     "800" : {
       "hex" : "#000000",
       "contrast" : "1",
-			"complement" : "200"
+			"complement" : "300"
     },
     "900" : {
       "hex" : "#000000",
       "contrast" : "1",
-			"complement" : "200"
+			"complement" : "400"
     },
     "A100" : {
       "hex" : "#C78EAB",
